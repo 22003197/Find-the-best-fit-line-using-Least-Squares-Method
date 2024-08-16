@@ -53,7 +53,8 @@ plt.show()
 
 ![Screenshot 2024-08-16 083441](https://github.com/user-attachments/assets/4f5d3639-eb61-4f11-9374-c69f82f60cac)
 
-![Screenshot 2024-08-16 083441](https://github.com/user-attachments/assets/5be67eb1-c610-4336-ba8a-db58cabfad0e)
+![Screenshot 2024-08-16 083420](https://github.com/user-attachments/assets/97869b3b-aafc-48b8-ba62-0ebe91b8ac44)
+
 
 
 ## Result:
