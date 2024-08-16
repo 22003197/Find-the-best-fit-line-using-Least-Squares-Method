@@ -48,8 +48,13 @@ plt.plot(X,Y_pred,color='yellow')
 plt.show() 
 ```
 ## Output:
-"C:\Users\SEC\OneDrive\Pictures\Screenshots\Screenshot 2024-08-16 083441.png"
-"C:\Users\SEC\OneDrive\Pictures\Screenshots\Screenshot 2024-08-16 083420.png"
+     
+     
+     
+     C:\Users\SEC\OneDrive\Pictures\Screenshots\Screenshot 2024-08-16 083441.png
+     
+     
+     C:\Users\SEC\OneDrive\Pictures\Screenshots\Screenshot 2024-08-16 083420.png
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
